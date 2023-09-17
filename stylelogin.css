@@ -1,0 +1,72 @@
+
+        body{
+            background-color: lightgray;
+        }
+
+        .container1{
+            margin-top: 100px;
+            text-align: center;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            
+        }
+
+        .container2{
+            background-color: white;
+            width: 400px;
+            height: 400px;
+            line-height: 2;
+            
+        }
+
+        .text p{
+            font-size: 30px;
+            color: black;
+            text-align: center;
+        }
+
+        .container3 p{
+            font-size: 18px;
+            text-align: center;
+        }
+
+        .container4 n1{
+            width: 600px;
+    
+
+        }
+
+        input[type=button]{
+            background-color: lightseagreen;
+            color: white;
+            /* width: 200px; */
+        }
+
+        .txt1{
+            width: 200px;
+            height: 30px;
+            background: transparent;
+            
+        }
+
+        .txt2{
+
+            width: 200px;
+            height: 30px;
+            background: transparent;
+        }
+    
+        .txt3{
+            width: 200px;
+            height: 30px;
+            background: transparent;
+            border: none;
+        }
+
+        .flex{
+            display: flex;
+        }
+
+
+        
